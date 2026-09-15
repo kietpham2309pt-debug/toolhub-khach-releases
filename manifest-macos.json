@@ -1,0 +1,23 @@
+{
+ "version": "1.0.1",
+ "ngay": "2026-09-15",
+ "ghi_chu": [
+  "Bản cho máy Mac nay TỰ CẬP NHẬT như bản Windows: có bản mới là app tự tải phần thay đổi, tự cài và tự mở lại — không phải tải bộ cài .dmg về cài lại",
+  "Máy chỉ có nhân viên dùng cũng nhận được bản mới: app tự kiểm tra ngay khi mở, báo có bản mới và tự cài ở lần mở app kế tiếp",
+  "Sửa lỗi: vừa được nơi bán mở khoá tài khoản, lần đăng nhập đầu đôi khi báo «Phiên làm việc đã hết hiệu lực» và phải gõ lại mật khẩu",
+  "— Dưới đây là các tính năng của bản 1.0.0, cũng nằm trong bản này —",
+  "Bản đầu tiên dành cho khách hàng: cào giá thị trường, cào thông tin sản phẩm theo nhóm hàng, ảnh nền trắng, ảnh xoá phông, theo dõi giá",
+  "Đăng nhập bằng tài khoản cửa hàng do nơi bán cấp; lần đầu đặt mật khẩu riêng, nhân viên có tài khoản riêng do chủ tạo",
+  "Nhiều sheet như Excel: làm nhiều lô song song, Tổng quan so sánh các sheet",
+  "Bảng dữ liệu kiểu Excel: sửa tại chỗ, phóng to thu nhỏ, bấm vào giá để mở đúng trang nguồn",
+  "Thiết lập cào có ô chỉnh cho mọi tham số: nguồn, số giá mỗi sản phẩm, chế độ từ khoá, lọc giá sai theo giá vốn và dải giá nhóm hàng",
+  "Nhóm hàng không giới hạn: tự thêm nhóm, từ khoá, bộ trường, dải giá hợp lý"
+ ],
+ "nen_tang": "macos-arm64",
+ "zip_ten": "ToolHub_CapNhat_macOS_v1.0.1.zip",
+ "zip_url": "https://github.com/kietpham2309pt-debug/toolhub-khach-releases/releases/download/v1.0.1/ToolHub_CapNhat_macOS_v1.0.1.zip",
+ "size": 37479181,
+ "sha256": "42ba484a59351a43ad2321040367962d14d5b1fc1f07e9ef1a18130ac5adb79a",
+ "so_tep": 148,
+ "macos_min": "14.0"
+}
