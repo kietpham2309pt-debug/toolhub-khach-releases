@@ -1,7 +1,11 @@
 {
- "version": "1.0.0",
- "ngay": "2026-09-14",
+ "version": "1.0.1",
+ "ngay": "2026-09-15",
  "ghi_chu": [
+  "Bản cho máy Mac nay TỰ CẬP NHẬT như bản Windows: có bản mới là app tự tải phần thay đổi, tự cài và tự mở lại — không phải tải bộ cài .dmg về cài lại",
+  "Máy chỉ có nhân viên dùng cũng nhận được bản mới: app tự kiểm tra ngay khi mở, báo có bản mới và tự cài ở lần mở app kế tiếp",
+  "Sửa lỗi: vừa được nơi bán mở khoá tài khoản, lần đăng nhập đầu đôi khi báo «Phiên làm việc đã hết hiệu lực» và phải gõ lại mật khẩu",
+  "— Dưới đây là các tính năng của bản 1.0.0, cũng nằm trong bản này —",
   "Bản đầu tiên dành cho khách hàng: cào giá thị trường, cào thông tin sản phẩm theo nhóm hàng, ảnh nền trắng, ảnh xoá phông, theo dõi giá",
   "Đăng nhập bằng tài khoản cửa hàng do nơi bán cấp; lần đầu đặt mật khẩu riêng, nhân viên có tài khoản riêng do chủ tạo",
   "Nhiều sheet như Excel: làm nhiều lô song song, Tổng quan so sánh các sheet",
@@ -9,9 +13,9 @@
   "Thiết lập cào có ô chỉnh cho mọi tham số: nguồn, số giá mỗi sản phẩm, chế độ từ khoá, lọc giá sai theo giá vốn và dải giá nhóm hàng",
   "Nhóm hàng không giới hạn: tự thêm nhóm, từ khoá, bộ trường, dải giá hợp lý"
  ],
- "zip_ten": "ToolHub_CapNhat_v1.0.0.zip",
- "size": 42854017,
- "sha256": "915f6a8564850b223c8e27a04c12c8d028563b6a9beb7561487dc0aec869d968",
+ "zip_ten": "ToolHub_CapNhat_v1.0.1.zip",
+ "size": 42864399,
+ "sha256": "8b5cf91abe0c0c80f57d8d8e6827ca2f7202a0b1ddcd8c732a0dee91beb567f7",
  "chi_giao_dien": false,
- "zip_url": "https://github.com/kietpham2309pt-debug/toolhub-khach-releases/releases/download/v1.0.0/ToolHub_CapNhat_v1.0.0.zip"
+ "zip_url": "https://github.com/kietpham2309pt-debug/toolhub-khach-releases/releases/download/v1.0.1/ToolHub_CapNhat_v1.0.1.zip"
 }
