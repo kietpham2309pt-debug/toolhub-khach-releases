@@ -39,9 +39,12 @@ Bên cạnh mỗi tệp có mã SHA-256 để đối chiếu tệp tải về kh
 
 ## Cập nhật
 
-- **Windows**: app tự kiểm tra và tự tải bản mới mỗi lần mở — bạn không phải làm gì.
-- **macOS**: tải tệp `.dmg` mới ở mục Releases rồi kéo ToolHub vào Applications, chọn «Thay thế».
-  Dữ liệu của bạn (ở `~/Library/Application Support/ToolHub`) giữ nguyên.
+**Bạn không phải cài lại.** Mỗi lần mở app, ToolHub (cả Windows lẫn macOS) tự kiểm tra bản mới, tự tải
+phần thay đổi (vài chục MB), rồi đếm ngược 15 giây và tự cài, tự mở lại — có nút «Để sau» nếu đang dở tay.
+Đang chạy cào thì app chờ tới lần mở sau mới cài. Dữ liệu của bạn luôn giữ nguyên.
+
+- **macOS**: để app tự cập nhật được, hãy chạy ToolHub từ thư mục **Applications** (không mở thẳng từ
+  thư mục Tải về hay từ đĩa `.dmg`). Nếu không tự cài được, app sẽ báo rõ lý do và cách xử lý.
 
 ## Tài khoản & hỗ trợ
 
