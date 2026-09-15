@@ -14,8 +14,8 @@
   "Nhóm hàng không giới hạn: tự thêm nhóm, từ khoá, bộ trường, dải giá hợp lý"
  ],
  "zip_ten": "ToolHub_CapNhat_v1.0.1.zip",
- "size": 42864399,
- "sha256": "8b5cf91abe0c0c80f57d8d8e6827ca2f7202a0b1ddcd8c732a0dee91beb567f7",
+ "size": 42864385,
+ "sha256": "583d6e7ab1cffe6ecc48b74db04e45d37649f39db26302bc71e82d1a468ff490",
  "chi_giao_dien": false,
  "zip_url": "https://github.com/kietpham2309pt-debug/toolhub-khach-releases/releases/download/v1.0.1/ToolHub_CapNhat_v1.0.1.zip"
 }
