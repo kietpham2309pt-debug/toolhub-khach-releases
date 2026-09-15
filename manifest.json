@@ -13,9 +13,9 @@
   "Thiết lập cào có ô chỉnh cho mọi tham số: nguồn, số giá mỗi sản phẩm, chế độ từ khoá, lọc giá sai theo giá vốn và dải giá nhóm hàng",
   "Nhóm hàng không giới hạn: tự thêm nhóm, từ khoá, bộ trường, dải giá hợp lý"
  ],
- "zip_ten": "ToolHub_CapNhat_v1.0.1.zip",
+ "zip_ten": "ToolHub-Windows-1.0.1-capnhat.zip",
  "size": 42864385,
  "sha256": "583d6e7ab1cffe6ecc48b74db04e45d37649f39db26302bc71e82d1a468ff490",
  "chi_giao_dien": false,
- "zip_url": "https://github.com/kietpham2309pt-debug/toolhub-khach-releases/releases/download/v1.0.1/ToolHub_CapNhat_v1.0.1.zip"
+ "zip_url": "https://github.com/kietpham2309pt-debug/toolhub-khach-releases/releases/download/v1.0.1/ToolHub-Windows-1.0.1-capnhat.zip"
 }
