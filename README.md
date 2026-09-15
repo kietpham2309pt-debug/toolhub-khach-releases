@@ -12,10 +12,11 @@ Vào mục **[Releases](../../releases/latest)** và tải đúng bản cho máy
 
 | Máy | Tệp | Dung lượng |
 |---|---|---|
-| Windows 10 / 11 (64-bit) | `_BANGIAO_KHACH_ToolHub_v<phiên bản>_….zip` | ~1 GB |
-| Mac chip Apple (M1, M2, M3, M4…) | `ToolHub-<phiên bản>-macOS-AppleSilicon.dmg` | ~1 GB |
+| Windows 10 / 11 (64-bit) | **`ToolHub-Windows-<phiên bản>.zip`** | ~1 GB |
+| Mac chip Apple (M1, M2, M3, M4…) | **`ToolHub-macOS-<phiên bản>.dmg`** | ~1 GB |
 
-Bên cạnh mỗi tệp có mã SHA-256 để đối chiếu tệp tải về không bị hỏng.
+Bên cạnh mỗi tệp có mã SHA-256 (`.sha256`) để đối chiếu tệp tải về không bị hỏng. Các tệp đuôi
+`-capnhat.zip` và `manifest*.json` là gói app **tự tải** khi cập nhật — bạn không cần tải chúng.
 
 ## Máy cần có
 
