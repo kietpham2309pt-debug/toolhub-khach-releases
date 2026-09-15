@@ -1,0 +1,17 @@
+{
+ "version": "1.0.0",
+ "ngay": "2026-09-14",
+ "ghi_chu": [
+  "Bản đầu tiên dành cho khách hàng: cào giá thị trường, cào thông tin sản phẩm theo nhóm hàng, ảnh nền trắng, ảnh xoá phông, theo dõi giá",
+  "Đăng nhập bằng tài khoản cửa hàng do nơi bán cấp; lần đầu đặt mật khẩu riêng, nhân viên có tài khoản riêng do chủ tạo",
+  "Nhiều sheet như Excel: làm nhiều lô song song, Tổng quan so sánh các sheet",
+  "Bảng dữ liệu kiểu Excel: sửa tại chỗ, phóng to thu nhỏ, bấm vào giá để mở đúng trang nguồn",
+  "Thiết lập cào có ô chỉnh cho mọi tham số: nguồn, số giá mỗi sản phẩm, chế độ từ khoá, lọc giá sai theo giá vốn và dải giá nhóm hàng",
+  "Nhóm hàng không giới hạn: tự thêm nhóm, từ khoá, bộ trường, dải giá hợp lý"
+ ],
+ "zip_ten": "ToolHub_CapNhat_v1.0.0.zip",
+ "size": 42854017,
+ "sha256": "915f6a8564850b223c8e27a04c12c8d028563b6a9beb7561487dc0aec869d968",
+ "chi_giao_dien": false,
+ "zip_url": "https://github.com/kietpham2309pt-debug/toolhub-khach-releases/releases/download/v1.0.0/ToolHub_CapNhat_v1.0.0.zip"
+}
