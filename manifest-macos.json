@@ -1,7 +1,13 @@
 {
- "version": "1.0.1",
- "ngay": "2026-09-15",
+ "version": "1.0.2",
+ "ngay": "2026-09-16",
  "ghi_chu": [
+  "Không còn cửa sổ đen (Terminal) nhảy lên giữa lúc đang cào, và cửa sổ Chrome của phần cào giá Google chạy ẩn — gặp mã xác minh app mới đưa cửa sổ ra cho bạn bấm",
+  "Cào nhanh hơn hẳn với lô nhỏ: có đủ nguồn giá rồi thì không mở Chrome tra Google nữa (đo thật: cào 1 mã 78 giây → 14 giây). Muốn Google tra mọi sản phẩm thì chọn ở Cào giá → Thiết lập cào",
+  "Hết báo «bị chặn» oan: một nguồn tạm nghỉ thì chỉ ghi «đang nghỉ nhịp», đèn đỏ chỉ sáng khi thật sự bị chặn",
+  "Sửa lỗi: phần mô tả lấy từ web bán hàng bị ghi ra ngoài app nên bảng thông tin không có mô tả dù đã cào xong",
+  "Máy chưa có WebView2 của Windows thì app tự mở trong cửa sổ riêng thay vì bung ra trình duyệt kèm thanh địa chỉ",
+  "— Dưới đây là các sửa đổi của bản 1.0.1, cũng nằm trong bản này —",
   "Bản cho máy Mac nay TỰ CẬP NHẬT như bản Windows: có bản mới là app tự tải phần thay đổi, tự cài và tự mở lại — không phải tải bộ cài .dmg về cài lại",
   "Máy chỉ có nhân viên dùng cũng nhận được bản mới: app tự kiểm tra ngay khi mở, báo có bản mới và tự cài ở lần mở app kế tiếp",
   "Sửa lỗi: vừa được nơi bán mở khoá tài khoản, lần đăng nhập đầu đôi khi báo «Phiên làm việc đã hết hiệu lực» và phải gõ lại mật khẩu",
@@ -14,10 +20,10 @@
   "Nhóm hàng không giới hạn: tự thêm nhóm, từ khoá, bộ trường, dải giá hợp lý"
  ],
  "nen_tang": "macos-arm64",
- "zip_ten": "ToolHub-macOS-1.0.1-capnhat.zip",
- "zip_url": "https://github.com/kietpham2309pt-debug/toolhub-khach-releases/releases/download/v1.0.1/ToolHub-macOS-1.0.1-capnhat.zip",
- "size": 37479181,
- "sha256": "42ba484a59351a43ad2321040367962d14d5b1fc1f07e9ef1a18130ac5adb79a",
+ "zip_ten": "ToolHub-macOS-1.0.2-capnhat.zip",
+ "zip_url": "https://github.com/kietpham2309pt-debug/toolhub-khach-releases/releases/download/v1.0.2/ToolHub-macOS-1.0.2-capnhat.zip",
+ "size": 37490543,
+ "sha256": "42645217ac48a6d1dc8ac70eb256d42b2c72c0c40d5c80c4b3277939eab70260",
  "so_tep": 148,
  "macos_min": "14.0"
 }
