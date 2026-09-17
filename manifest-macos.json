@@ -1,7 +1,10 @@
 {
- "version": "1.0.2",
- "ngay": "2026-09-16",
+ "version": "1.0.3",
+ "ngay": "2026-09-17",
  "ghi_chu": [
+  "Cào được sản phẩm CHỈ CÓ MÃ: dán thẳng mã hãng (ví dụ PID775DC1E, SMS8YCI01E) không cần tên hay model, app dùng chính mã để tìm giá, thông tin và ảnh — trước đây những mã này cào lâu mà không ra giá",
+  "Máy đo nhịp tim cho tiến trình đang chạy (cào giá, thông tin, ảnh): nhịp đều là app đang làm việc, nhịp thưa là đang nghỉ nhịp, vạch ngang đỏ là bị chặn hoặc đứng im — nhìn là biết có cần bấm Xem log không",
+  "— Dưới đây là các sửa đổi của bản 1.0.2, cũng nằm trong bản này —",
   "Không còn cửa sổ đen (Terminal) nhảy lên giữa lúc đang cào, và cửa sổ Chrome của phần cào giá Google chạy ẩn — gặp mã xác minh app mới đưa cửa sổ ra cho bạn bấm",
   "Cào nhanh hơn hẳn với lô nhỏ: có đủ nguồn giá rồi thì không mở Chrome tra Google nữa (đo thật: cào 1 mã 78 giây → 14 giây). Muốn Google tra mọi sản phẩm thì chọn ở Cào giá → Thiết lập cào",
   "Hết báo «bị chặn» oan: một nguồn tạm nghỉ thì chỉ ghi «đang nghỉ nhịp», đèn đỏ chỉ sáng khi thật sự bị chặn",
@@ -20,10 +23,10 @@
   "Nhóm hàng không giới hạn: tự thêm nhóm, từ khoá, bộ trường, dải giá hợp lý"
  ],
  "nen_tang": "macos-arm64",
- "zip_ten": "ToolHub-macOS-1.0.2-capnhat.zip",
- "zip_url": "https://github.com/kietpham2309pt-debug/toolhub-khach-releases/releases/download/v1.0.2/ToolHub-macOS-1.0.2-capnhat.zip",
- "size": 37490543,
- "sha256": "42645217ac48a6d1dc8ac70eb256d42b2c72c0c40d5c80c4b3277939eab70260",
+ "zip_ten": "ToolHub-macOS-1.0.3-capnhat.zip",
+ "zip_url": "https://github.com/kietpham2309pt-debug/toolhub-khach-releases/releases/download/v1.0.3/ToolHub-macOS-1.0.3-capnhat.zip",
+ "size": 37515530,
+ "sha256": "e863430c71974224e548f55340c575bef252239d0e3bb54ee0b945525b141bf1",
  "so_tep": 148,
  "macos_min": "14.0"
 }
